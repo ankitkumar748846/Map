@@ -132,8 +132,8 @@
 
   }
   .footerBottom p{
-    font-size: 20px;
-    color: rgb(100, 113, 50); 
+    font-size: 15px;
+    color:white; 
     
     
   }
@@ -142,7 +142,7 @@
   } */
   .footerBottom p span {
     /* color: aquamarine; */
-    color: #ff004f;
+    color:white;
     font-weight: bold;
   }
   .designer{
