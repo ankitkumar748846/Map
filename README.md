@@ -66,7 +66,12 @@ Run the following command in your terminal to install the required dependencies.
 ```bash
   npm i
 ```
-4.Run Development Server:
+4.Make a .env file:
+ 
+```bash
+   VITE_Render_Url = "http://localhost:3000/"
+```
+5.Run Development Server:
 
 Execute the following command to start the development server.
 
@@ -76,15 +81,22 @@ Execute the following command to start the development server.
 
 **To Setup Backend on Your Machine :** 
 
- 5.Install Dependencies:
+ 6.Install Dependencies:
 
 Run the following command in your terminal to install the required dependencies..
 
 ```bash
   npm i
 ```
+ 7.Make a .env file:
 
- 6.Start Backend Server:
+
+```bash
+    VITE_MONGOURL="Enter your MongoDB atlas connection url"
+    SECRET_KEY="Enter your Secret Key for jwt token"
+```
+
+ 8.Start Backend Server:
 
 Execute the following command to launch the backend server.
 
@@ -102,13 +114,14 @@ Execute the following command to launch the backend server.
 
 
 ![Login_Page](https://github.com/Debajyoti045/Maply/assets/109648585/7b964ad5-2f60-49ad-a27e-2ebcddb93ce6)
+![login_maply](https://github.com/Debajyoti045/Maply/assets/109648585/68675441-44e6-40d1-bf11-b67e1d30a146)
+![map_bar](https://github.com/Debajyoti045/Maply/assets/109648585/fa3177b1-6503-4981-bb2b-d08f03d9b57e)
 
-
-
-![path_feature](https://github.com/Debajyoti045/Maply/assets/109648585/9d235afe-2e5d-4b22-a06b-aa581eeb3966)
-![map_webpage](https://github.com/Debajyoti045/Maply/assets/109648585/90d31e39-6633-4ef3-b057-98ca16e3e71c)
-![feature](https://github.com/Debajyoti045/Maply/assets/109648585/15fff8f1-0581-41d0-abe2-d98229003586)
-![notification_admin](https://github.com/Debajyoti045/Maply/assets/109648585/28969b39-0f4f-40cf-845d-0ae5b857d55c)
+![sidebar](https://github.com/Debajyoti045/Maply/assets/109648585/397e93fe-512c-46f8-84a4-a47c9e6365b9)
+![icons_maply](https://github.com/Debajyoti045/Maply/assets/109648585/d24162d1-0324-419f-9288-cc347dc92058)
+![routes_maply](https://github.com/Debajyoti045/Maply/assets/109648585/e433af98-2405-46cd-8ccc-7888381119a3)
+![admin_panel](https://github.com/Debajyoti045/Maply/assets/109648585/b19975d2-b073-4ab3-a76b-b09784d7b8cc)
+![admin_sidebar](https://github.com/Debajyoti045/Maply/assets/109648585/4842d4cf-d033-4507-9aa0-92998a1a1ed3)
 
 ## Github Profile - Links
 
