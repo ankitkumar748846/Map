@@ -111,7 +111,7 @@ Execute the following command to launch the backend server.
 - Ankit Kumar
 
 ## Project Video
-[![Maply](https://img.youtube.com/vi/FK2PLcm2fFk)](https://youtu.be/FK2PLcm2fFk?si=ko7A5pMy8L1x985_)
+[![Maply](https://img.youtube.com/vi/FK2PLcm2fFk/0.jpg)](https://youtu.be/FK2PLcm2fFk?si=ko7A5pMy8L1x985_)
 
 
 ## Screenshots
